@@ -5,6 +5,8 @@ const dotenv=require('dotenv')
 const helmet=require('helmet')
 const morgan=require('morgan')
 const connection=require('./config/db')
+const userRoute=require('./routes/users')
+const authRoute=require('./routes/auth')
 
 
 dotenv.config();
@@ -17,6 +19,12 @@ app.get('/',(req,res)=>{
 
     res.send("hello from server side")
 })
+
+
+
+app.use('/api/users',userRoute)
+app.use('/api/auth',authRoute)
+
 
 app.listen(8000,()=>
 {
