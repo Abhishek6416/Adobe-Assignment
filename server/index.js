@@ -7,9 +7,10 @@ const morgan=require('morgan')
 const connection=require('./config/db')
 const userRoute=require('./routes/users')
 const authRoute=require('./routes/auth')
+const postRoute=require('./routes/posts')
 
 
-dotenv.config();
+// dotenv.config();
 
 app.use(express.json())
 app.use(helmet())
@@ -22,8 +23,9 @@ app.get('/',(req,res)=>{
 
 
 
-app.use('/api/users',userRoute)
 app.use('/api/auth',authRoute)
+app.use('/api/users',userRoute)
+app.use('/api/posts',postRoute)
 
 
 app.listen(8000,()=>
