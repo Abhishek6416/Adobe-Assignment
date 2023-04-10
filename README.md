@@ -28,7 +28,8 @@ server:http://localhost:8000/
 #profile page:
 
 
-<img width="956" alt="Screenshot 2023-04-10 081055" src="https://user-images.githubusercontent.com/92006074/230815278-13178e6d-40cd-431d-b2d8-986e8ee14814.png">
+<img width="960" alt="Screenshot 2023-04-10 081516" src="https://user-images.githubusercontent.com/92006074/230815419-e82a4935-148f-49d9-989f-989d87b18320.png">
+
 
 
 
