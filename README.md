@@ -1,8 +1,10 @@
 # Adobe-Assignment
 
 #step-1:
-First npm install in both client and server
-client:http://localhost:3000/
+First npm install in both client and server </br>
+client:http://localhost:3000/   </br>
+
+
 server:http://localhost:8000/
 
 #all functionalities are working:follow unfollow
@@ -13,4 +15,4 @@ server:http://localhost:8000/
 
 #Register Page:
 
-<img width="959" alt="Screenshot 2023-04-10 074958" src="https://user-images.githubusercontent.com/92006074/230813201-4216eabc-f112-4a06-91de-2d96789ce5b6.png">
+<img width="960" alt="Screenshot 2023-04-10 075140" src="https://user-images.githubusercontent.com/92006074/230813373-0b0f2172-3007-4378-9853-574d32c99370.png">
