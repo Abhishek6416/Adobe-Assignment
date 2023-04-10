@@ -17,6 +17,13 @@ server:http://localhost:8000/
 
 <img width="960" alt="Screenshot 2023-04-10 075140" src="https://user-images.githubusercontent.com/92006074/230813373-0b0f2172-3007-4378-9853-574d32c99370.png">
 
+#Home PAGE:
+
+
+
+<img width="956" alt="Screenshot 2023-04-10 081055" src="https://user-images.githubusercontent.com/92006074/230814895-179859ad-2559-4db4-a375-67dcb5887049.png">
+
+
 
 
 
