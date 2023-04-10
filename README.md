@@ -16,3 +16,8 @@ server:http://localhost:8000/
 #Register Page:
 
 <img width="960" alt="Screenshot 2023-04-10 075140" src="https://user-images.githubusercontent.com/92006074/230813373-0b0f2172-3007-4378-9853-574d32c99370.png">
+
+
+
+
+##Backend part is completely done aswe can perform various action with the api
